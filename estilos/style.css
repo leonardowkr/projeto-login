@@ -15,11 +15,22 @@ div#formulario{
     background-color: white;
     padding: 20px;
     display: block;
+    margin: auto;
 }
 #formulario h1{
     text-align: center;
     
 }
+#ilogin{
+    font-size: 1em;
+    margin-top: 15px;
+    margin-bottom: 5px;
+
+}
+#isenha{
+    font-size: 1em;
+}
+
 #ientrar{
     background-color: #49a09d;
     color: white;
@@ -32,6 +43,7 @@ div#formulario{
     margin-bottom: 10px;
     height: 30px;
     border: 1px solid #49a09d;
+    font-size: 1em;
 }
 #iforgot{
     background-color: white;
@@ -42,7 +54,7 @@ div#formulario{
     margin: auto;
     width: 300px;
     height: 30px;
-    
+    font-size: 1em;
 }
 div#imagem{
     background: #5f2c82 url(../imagens/pexels-szabolcs-toth-2911668.jpg) right top no-repeat;
