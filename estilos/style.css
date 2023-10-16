@@ -27,14 +27,12 @@ form p{
     font-size: 1em;
     margin-top: 15px;
     margin-bottom: 5px;
-    width: 87%;
 }
 span{
     vertical-align: middle;
 }
 #isenha{
     font-size: 1em;
-    width: 87%;
 }
 
 #ientrar{
@@ -88,4 +86,5 @@ section#login{
     background-color: white;
     height: 500px;
     transition: width .3s,height .3s;
+    transition-timing-function: ease;
 }
