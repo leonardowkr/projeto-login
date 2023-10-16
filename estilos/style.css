@@ -34,6 +34,9 @@ span{
 #isenha{
     font-size: 1em;
 }
+div#infologin{
+    width: 100%;
+}
 
 #ientrar{
     background-color: #49a09d;
