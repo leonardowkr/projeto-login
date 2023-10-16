@@ -22,12 +22,14 @@ Grandes Telas: acima de 1200px
     }
     section#login{
         width: 90vw;
+        height: 350px;
     }
 }
 
 @media screen and (min-width: 992px){
     section#login{
         width: 950px;
+        height: 600px;
     }
     div#imagem{
         float: left;
