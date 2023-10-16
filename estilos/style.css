@@ -45,9 +45,9 @@ span{
 }
 div#infologin{
     width: 100%;
-    margin: 8px;
     display: block;
     text-align: center;
+    margin-bottom: 5px;
 }
 
 #ientrar{
