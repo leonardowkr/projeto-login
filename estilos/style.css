@@ -102,5 +102,5 @@ section#login{
     transition: width .3s,height .3s;
     transition-timing-function: ease;
     max-height: 550px;
-    width: 75vw;
+    width: 85vw;
 }
