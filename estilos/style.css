@@ -20,6 +20,9 @@ div#formulario{
     text-align: center;
     margin-bottom: 5px;
 }
+#formulario>p{
+    margin-bottom: 12px;
+}
 #formulario p{
     font-size: 0.9em;
 }
@@ -28,22 +31,32 @@ form p{
 }
 #ilogin{
     font-size: .9em;
-    margin: 10px 0px;
-    border: 2px solid gray;
-    border-radius: 5px;
-    width: 90%;
-    padding: 5px;
+    border: none;
+    border-radius: 8px;
+    width: calc(100% - 35px);
+    padding: 8px;
+    height: 100%;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
 }
 span{
     vertical-align: text-top;
+    color: white;
+    width: 30px;
+    
 }
 #isenha{
-    margin: 10px 0px;
     font-size: .9em;
-    border: 2px solid gray;
-    border-radius: 5px;
-    width: 90%;
-    padding: 5px;
+    border: none;
+    border-radius: 8px;
+    width: calc(100% - 35px);
+    height: 100%;
+    padding: 8px;
 }
 div.campo{
     width: 100%;
@@ -51,7 +64,9 @@ div.campo{
     text-align: center;
     margin: 5px 0px;
     background-color: #5f2c82;
-    border-radius: 5px;
+    border-radius: 8px;
+    height: 35px;
+    border: 2px solid #5f2c82;
 }
 
 #ientrar{

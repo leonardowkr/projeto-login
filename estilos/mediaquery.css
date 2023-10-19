@@ -32,7 +32,7 @@ Grandes Telas: acima de 1200px
 @media screen and (min-width: 992px){
     section#login{
         width: 950px;
-        height: 600px;
+        height: 400px;
     }
     div#imagem{
         float: right;
@@ -47,7 +47,7 @@ Grandes Telas: acima de 1200px
         background-image: linear-gradient(to bottom, #5f2c82 ,#49a09d);
     }
     #formulario p, #ilogin,#isenha{
-        font-size: 1.4em;
+        font-size: 1.2em;
     }
     #formulario h1{
         font-size: 2em;
